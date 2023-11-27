@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "qErA+PJKnXDgKxydFZ6qpbfkcf8K6NMGVFQ/1ztq2V71wqbYTfDAU/b48+nqYLcT/Ecxal5AM8avWFopsgKndw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Sofia Dahlberg\\OneDrive\\Dokument\\Webbutvecklare\\c# .net\\moment 3\\dotnet.moment3.3\\moment 3.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Sofia Dahlberg\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

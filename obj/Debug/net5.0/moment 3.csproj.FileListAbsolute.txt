@@ -1,0 +1,18 @@
+C:\Users\Sofia Dahlberg\OneDrive\Dokument\Webbutvecklare\c# .net\moment 3\bin\Debug\net5.0\moment 3.exe
+C:\Users\Sofia Dahlberg\OneDrive\Dokument\Webbutvecklare\c# .net\moment 3\bin\Debug\net5.0\moment 3.deps.json
+C:\Users\Sofia Dahlberg\OneDrive\Dokument\Webbutvecklare\c# .net\moment 3\bin\Debug\net5.0\moment 3.runtimeconfig.json
+C:\Users\Sofia Dahlberg\OneDrive\Dokument\Webbutvecklare\c# .net\moment 3\bin\Debug\net5.0\moment 3.runtimeconfig.dev.json
+C:\Users\Sofia Dahlberg\OneDrive\Dokument\Webbutvecklare\c# .net\moment 3\bin\Debug\net5.0\moment 3.dll
+C:\Users\Sofia Dahlberg\OneDrive\Dokument\Webbutvecklare\c# .net\moment 3\bin\Debug\net5.0\ref\moment 3.dll
+C:\Users\Sofia Dahlberg\OneDrive\Dokument\Webbutvecklare\c# .net\moment 3\bin\Debug\net5.0\moment 3.pdb
+C:\Users\Sofia Dahlberg\OneDrive\Dokument\Webbutvecklare\c# .net\moment 3\obj\Debug\net5.0\moment 3.csprojAssemblyReference.cache
+C:\Users\Sofia Dahlberg\OneDrive\Dokument\Webbutvecklare\c# .net\moment 3\obj\Debug\net5.0\moment 3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sofia Dahlberg\OneDrive\Dokument\Webbutvecklare\c# .net\moment 3\obj\Debug\net5.0\moment 3.AssemblyInfoInputs.cache
+C:\Users\Sofia Dahlberg\OneDrive\Dokument\Webbutvecklare\c# .net\moment 3\obj\Debug\net5.0\moment 3.AssemblyInfo.cs
+C:\Users\Sofia Dahlberg\OneDrive\Dokument\Webbutvecklare\c# .net\moment 3\obj\Debug\net5.0\moment 3.csproj.CoreCompileInputs.cache
+C:\Users\Sofia Dahlberg\OneDrive\Dokument\Webbutvecklare\c# .net\moment 3\obj\Debug\net5.0\moment 3.dll
+C:\Users\Sofia Dahlberg\OneDrive\Dokument\Webbutvecklare\c# .net\moment 3\obj\Debug\net5.0\ref\moment 3.dll
+C:\Users\Sofia Dahlberg\OneDrive\Dokument\Webbutvecklare\c# .net\moment 3\obj\Debug\net5.0\moment 3.pdb
+C:\Users\Sofia Dahlberg\OneDrive\Dokument\Webbutvecklare\c# .net\moment 3\obj\Debug\net5.0\moment 3.genruntimeconfig.cache
+C:\Users\Sofia Dahlberg\OneDrive\Dokument\Webbutvecklare\c# .net\moment 3\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Sofia Dahlberg\OneDrive\Dokument\Webbutvecklare\c# .net\moment 3\obj\Debug\net5.0\moment 3.csproj.CopyComplete
